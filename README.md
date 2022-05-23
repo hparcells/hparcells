@@ -1,8 +1,7 @@
-<h1 align=center>Hello World 👋</h1>
+<h2 align=center>Hi, I'm Hunter...</h2>
+<p align=center><a href="https://hunterparcells.com">Website</a> | <a href="https://www.buymeacoffee.com/hunterparcells">Donate</a></p>
+
 <p align=center><strong>Currently</strong>: Pondering what to do next.</p>
 
-I'm Hunter, making projects in TypeScript React, wanting to learn as much as I can in all aspects of development. Aside from TS/JS, I know a bit of Java and have learned a little C++ and Python. Other than code, I'm enjoying gaming, writing for fun sometimes, and occasional video production on the side.
+...making projects in TypeScript React, wanting to learn as much as I can in all aspects of development. Aside from TS/JS, I know a bit of Java and have learned a little C++ and Python. Other than code, I'm enjoying gaming, writing for fun sometimes, and occasional video production on the side.
 
-**Website**: https://hunterparcells.com
-
-**Donate**: https://www.buymeacoffee.com/hunterparcells
