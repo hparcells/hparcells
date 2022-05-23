@@ -1,7 +1,8 @@
-### Hello 👋
+<h1 align=center>Hello World 👋</h1>
+<p align=center><strong>Currently</strong>: Pondering what to do next.</p>
 
-This is my GitHub account where I will share any open source projects I work on. Currently using JavaScript to make websites and games.
+I'm Hunter, making projects in TypeScript React, wanting to learn as much as I can. Aside from TS/JS, I know a bit of Java and have learned a little C++ and Python. Other than code, I'm enjoying gaming, writing for fun sometimes, and occasional video production on the side.
 
-https://hparcells.netlify.com
+**Website**: https://hunterparcells.com
 
-https://www.patreon.com/hparcells
+**Donate**: https://www.buymeacoffee.com/hunterparcells
