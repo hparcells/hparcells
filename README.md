@@ -4,4 +4,4 @@
 
 <p align=center><strong>Currently</strong>: Pondering what to do next.</p>
 
-...making projects in TypeScript React, wanting to learn as much as I can in all aspects of development. Aside from TS/JS, I know a bit of Java and have learned a little C++ and Python. Other than code, I'm enjoying gaming, writing for fun sometimes, and occasional video production on the side.
+...and I'm making projects in TypeScript React, wanting to learn as much as I can in all aspects of development while trying out various libraries and platforms, turning them into projects. Aside from TS/JS, I know a bit of Java and have learned a little C++ and Python. Other than code, I'm enjoying gaming, writing for fun sometimes, and occasional video production on the side.
