@@ -27,6 +27,7 @@
 ## ⭐ Supporters
 - G lander
 - Binkiklou
+- OtterDemon
 
 ## 🔥 Stats
 <div align="center">
