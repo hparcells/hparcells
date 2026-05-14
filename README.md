@@ -23,15 +23,3 @@
   <br />
   <img src="https://skillicons.dev/icons?i=vscode,figma,sentry,idea,java" />
 </div>
-
-## ⭐ Supporters
-- G lander
-- Binkiklou
-- OtterDemon
-
-## 🔥 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hparcells&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hparcells&layout=compact&langs_count=6&theme=dark" />
-  <img src="https://streak-stats.demolab.com/?user=hparcells&theme=dark" />
-</div>
