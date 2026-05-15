@@ -32,7 +32,7 @@
 ## 🚀 About
 - 💻 Full stack developer and recent CS grad, building with **TypeScript**, **React**, and **Next.js**.
 - 🛠️ Currently deepening my knowledge in **Docker**, **NestJS**, **Redis**, and **BullMQ**.
-- ☕ Aside from web dev, I have experience in **Java** and have worked with **Ignition Perspective** in industrial manufacturing environments.
+- ☕ Aside from web dev, I have hands-on experience with **Java**, **Python**, and **Ignition Perspective**.
 - 🎮 Outside of code, I enjoy gaming, writing, and always trying to learn something new.
 - 👉 *[What am I up to right now?](https://archives.hunterparcells.com/now)*
 
